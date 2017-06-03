@@ -15,11 +15,11 @@ public class Birdmovement : MonoBehaviour {
 	private float volLowRange = .5f;
 	private float volHighRange = 1.0f;
 	//Vector3 velocity = Vector3.zero;
-//public Vector3 gravity;
+	//public Vector3 gravity;
 	public float flapspeed = 200f;
 //	public Vector3 jumpvel;
 //	public float maxvel = 20f;
-//	 float forwardSpeed = 2f;
+//	float forwardSpeed = 2f;
 
 	public float maxspeed = 100f;
 	public float speedreduction = 1000f;
